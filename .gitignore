@@ -1,0 +1,4 @@
+# Ignore file có tên .project(eclipse cấu hình)
+**/.project
+**/.classpath
+**/bin
