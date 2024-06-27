@@ -1,4 +1,46 @@
-# Ignore file có tên .project(eclipse cấu hình)
-**/.project
-**/.classpath
-**/bin
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vscode/*
+.vscode/*.code-workspace
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# IIS Express
+/IISExpress/
+
+# Windows image file caches
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Rider files
+.idea/
+.idea/*
+
+# Backup files
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+
+# Published website
+Publish/
+Publish/*
